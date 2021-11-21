@@ -14,7 +14,7 @@ pipeline{
       
       steps{
         script{
-          buil 'testadd'
+          build 'testadd'
       }
     }
     }
