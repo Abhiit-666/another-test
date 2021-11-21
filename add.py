@@ -1,4 +1,4 @@
 def add(x,y):
-	print(2)
+	print("okay!!")
 	return x + y
 
